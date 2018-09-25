@@ -1,2 +1,2 @@
-# aws-serverless-angular-seed
+# aws-serverless-seed
 AWS-SERVERLESS-ANGULAR
